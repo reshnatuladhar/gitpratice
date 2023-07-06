@@ -1,0 +1,2 @@
+# gitpratice
+learning git
